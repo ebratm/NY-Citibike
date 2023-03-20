@@ -2,22 +2,28 @@
 Analyzing NY Citibike Ridership Rental in New York for September 2013
 
 
-## The questions for bike rental analysis were based on the following; 
+### The questions for bike rental analysis were based on the following; 
 
-What timeframe has the most bike's usage? 
+Q1. What timeframe has the most bike's usage? 
 
-What's the busiest time of the day?
+Q2. What's the busiest day of the week?
 
-Which user types leads in bike's rental?
-
-### Further analysis was conducted to identify corrections between; start hour and trip duration.
+Q3. Which user types leads in bike's rental?
 
 
 
-## Privacy Laws: 
+##### Further analysis was conducted; 
 
-Dataset does not contain any PII Data Types. Hence, legally safe to use without causing any harm in a person. 
+> To identify any correlation between start hour and trip duration.
 
-## License: 
 
-Available for public use: 
+
+### Privacy Laws & License:  
+
+Dataset does not contain any PII Data Types. Hence, legally safe to use without causing any harm in a person. Available for public use:
+
+
+### Data: 
+
+Extracted externally from Kaggle.com: [NY Citibike](https://www.kaggle.com/datasets/ryanmcummings/citi-bike-data)
+
